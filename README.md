@@ -1,2 +1,2 @@
-# SURGE-IITK-2023
-Contains the python implementation of all the models
+# Trigger Word Detection
+Contains the python implementation of the model
